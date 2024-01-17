@@ -1,0 +1,64 @@
+body{
+    background:rgb(194, 21, 21);
+
+}
+i{
+    color: black;
+    font-size: 60px;
+}
+i#facebook{
+    color: rgb(26, 26, 240);
+    font-size: 60px ;
+}
+i#instagram{
+    color: deeppink;
+    font-size: 60px;
+}
+i#twitter{
+    color:blue;
+    font-size: 60px;
+}
+i#youtube{
+    color: red;
+    font-size: 60px;
+   
+}
+i#whatsapp{
+    color:rgb(105, 241, 105) ;
+    font-size: 60px;
+  ;
+    
+
+}
+
+
+
+
+
+h2{
+    font-size: 60px;
+    color:white ;
+    letter-spacing: 0.2em;
+    line-height: 1.1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 0.2em;
+    line-height: 1.1em;
+    text-align: left;
+    font-size: 40px;
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 0.2em;
+    line-height: 1.1em;
+    text-align: left;
+    font-size: 20px;
+
+}

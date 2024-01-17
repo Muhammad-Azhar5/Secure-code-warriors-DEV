@@ -1,0 +1,63 @@
+h1,
+H2 {
+    font-size: 70px;
+    letter-spacing: 0.2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    text-align: center;
+
+}
+
+body {
+    background: rgb(194, 21, 21);
+}
+
+h1.one:first-letter {
+    font-size: 250%;
+}
+
+h1.intro:first-line {
+    font-weight: bold;
+}
+
+p {
+    font-size: 23px;
+    border: 1px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+}
+
+p.two {
+    width: 1200px;
+    border: 32px solid #1c1d1f;
+}
+
+p.three {
+    width: 275px;
+    border: 32px solid #1c1d1f;
+    padding: 40px 50px 20px 20px;
+    margin: 1px 17px 0px 900px;
+}
+
+p.four {
+    width: 275px;
+    border: 32px solid #1c1d1f;
+    padding: 40px 50px 20px 20px;
+    margin: 1px 17px -166px 556px;
+}
+
+p.five {
+    width: 275px;
+    border: 29px solid #1c1d1f;
+    padding: 40px 50px 20px 20px;
+    margin: 2px 50px 20px 20px;
+}
+
+p.six {
+    width: 275px;
+    border: 29px solid #1c1d1f;
+    padding: 40px 50px 20px 20px;
+    margin: -580px 50px 20px 20px;
+}
+

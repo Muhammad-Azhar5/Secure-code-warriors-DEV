@@ -1,0 +1,120 @@
+* {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.lists {
+    width: 100px;
+    height: 100px;
+    background: #000;
+    color: white;
+}
+
+button {
+    width: 250px;
+    height: 44px;
+    color: black;
+    background:black;
+    border: none;
+    font-size: 22px;
+    border-radius: 30px;
+    margin-top: 29px;
+    border: 3px solid black;
+    
+}
+
+
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHRpbmd8ZW58MHx8MHx8fDA%3D);
+    background-size: 100% 740px;
+}
+
+.contain {
+    width: 500px;
+    height: 400px;
+    background: black;
+    text-align: center;
+    color: white;
+    margin-left: 33%;
+    margin-top: 7%;
+    border-radius: 20%;
+}
+
+.contain .text {
+    position: relative;
+    top: 7%;
+
+
+}
+
+.input1 {
+    border: none;
+    background: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    color: white;
+}
+
+
+.input2 {
+    border: none;
+    background: black;
+    border-bottom: 2px solid white;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    color: white;
+
+}
+
+p {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+p span {
+    color: #95A18D;
+}
+
+.text button {
+    width: 250px;
+    height: 44px;
+    color: black;
+    background: white;
+    border: none;
+    font-size: 22px;
+    border-radius: 25px;
+    margin-top: 29px;
+    
+    
+
+}
+
+button:hover {
+    border: 3px solid #95A18D;
+    color: black;
+    font-size: 25px;
+    background: white;
+    text-decoration: none;
+}
+
+.contain h1 {
+    font-size: 30px;
+    color: #95A18D;
+}
+
+/* PRODUCTS PAGE CSS  STARTS FROM HERE */
